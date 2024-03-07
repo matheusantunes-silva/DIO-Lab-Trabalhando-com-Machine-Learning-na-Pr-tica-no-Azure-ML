@@ -100,7 +100,7 @@ Logo após a implantação, que demora bastante, acessei a aba "Testar" do ponto
 
 Para o teste, utilizei o json abaixo:
 
-
+```
  {
    "Inputs": { 
      "data": [
@@ -122,7 +122,7 @@ Para o teste, utilizei o json abaixo:
    },   
    "GlobalParameters": 1.0
  }
-
+```
 
  E com isso obtive o resultado desejado. Foi uma ótima primeira experiência utilizando o Microsoft Azure e acredito que vou conseguir realizar maiores projetos nas próximas tarefas designadas.
 
